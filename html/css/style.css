@@ -376,7 +376,7 @@ hr {
 
 
 form#contact-form .form-group label {
-	text-align: left !important;
+	text-align: center !important;
 	display: block;
 	letter-spacing: 1px;
 	font-size: 16px;
@@ -417,7 +417,7 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 
 footer {
 	text-align: center;
-	padding: 50px 0 30px;
+	padding: 20px 0 6px;
 
 }
 
