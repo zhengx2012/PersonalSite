@@ -15,11 +15,6 @@ ul.nav li a:hover {
 	color: #267326;
 }
 
-.owl-theme .owl-controls .owl-page.active span,
-.owl-theme .owl-controls.clickable .owl-page:hover span {
-    background-color: #267326;
-}
-
 .bg-skin {
 	background: #267326;
 }
@@ -29,7 +24,7 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 }
 
 footer {
-    background-color: #267326;
+    background-color: #004d39;
 }
 
 .btn-skin {

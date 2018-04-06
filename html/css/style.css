@@ -316,14 +316,14 @@ hr {
 
 }
 
-.intro .page-scroll {
+/* .intro .page-scroll {
 	text-align: center;
 }
 
 
 .intro .page-scroll a {
 	color: #fff;
-}
+} */
 
 .brand-heading {
     font-size: 40px;
@@ -335,7 +335,7 @@ hr {
 
 .intro img{
   width: 200px;
-  position: absolute;
+  position: relative;
   border-radius: 50%;
 }
 
