@@ -310,13 +310,18 @@ hr {
 	padding:200px 0 150px 0;
 }
 
-#intro .headshot {
+#intro.headshot {
   display: block;
+    align-content: center;
   margin-left: auto;
   margin-right: auto;
   width: 200px;
 
 }
+
+/* #intro.profession {
+  color: green;
+} */
 
 /* .intro .page-scroll {
 	text-align: center;
@@ -337,7 +342,7 @@ hr {
 
 .intro img{
   width: 200px;
-  position: relative;
+  /* position: relative; */
   border-radius: 50%;
 }
 
@@ -716,6 +721,24 @@ a.btn:hover {
     margin-top: 0;
 }
 
+/*Socail Media*/
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-github {
+  background: #000000;
+  color: white;
+}
 
 /* Media queries */
 
