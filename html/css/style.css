@@ -15,6 +15,11 @@ body {
     background-color: #fff;
 }
 
+.headshot {
+    position: relative;
+    left: 45%;
+}
+
 html {
     width: 100%;
     height: 100%;
@@ -199,10 +204,10 @@ img.img-responsive {
 
 @keyframes shadowSpin{
   0%{
-    box-shadow: 10px -10px #39CCCC, -10px 10px #FFDC00;
+    box-shadow: 10px -10px #39CCCC, 10px 10px #FFDC00;
   }
   25%{
-    box-shadow: 10px 10px #39CCCC, -10px -10px #FFDC00;
+    box-shadow: 10px 10px #39CCCC, 10px -10px #FFDC00;
   }
   50%{
     box-shadow: -10px 10px #39CCCC, 10px -10px #FFDC00;
@@ -211,7 +216,7 @@ img.img-responsive {
     box-shadow: -10px -10px #39CCCC, 10px 10px #FFDC00;
   }
   100%{
-    box-shadow: 10px -10px #39CCCC, -10px 10px #FFDC00;
+    box-shadow: 10px -10px #39CCCC, 10px 10px #FFDC00;
   }
 }
 
@@ -315,7 +320,7 @@ hr {
     align-content: center;
   margin-left: auto;
   margin-right: auto;
-  width: 200px;
+    text-align: center;
 
 }
 
@@ -561,9 +566,9 @@ footer a:hover {
 Parallax
 ============================= */
 
-#separator {
-	background-image: url(../img/parallax-bg.jpg);
-}
+/*#separator {*/
+	/*background-image: url(../img/parallax-bg.jpg);*/
+/*}*/
 
 #separator .icon {
 	margin-bottom: 20px;
@@ -659,39 +664,39 @@ a.btn:hover {
     -moz-animation-timing-function: linear;
 }
 
-@-webkit-keyframes pulse {
-    0 {
-        -webkit-transform: scale(1);
-        transform: scale(1);
-    }
+/*@-webkit-keyframes pulse {*/
+    /*0 {*/
+        /*-webkit-transform: scale(1);*/
+        /*transform: scale(1);*/
+    /*}*/
 
-    50% {
-        -webkit-transform: scale(1.2);
-        transform: scale(1.2);
-    }
+    /*50% {*/
+        /*-webkit-transform: scale(1.2);*/
+        /*transform: scale(1.2);*/
+    /*}*/
 
-    100% {
-        -webkit-transform: scale(1);
-        transform: scale(1);
-    }
-}
+    /*100% {*/
+        /*-webkit-transform: scale(1);*/
+        /*transform: scale(1);*/
+    /*}*/
+/*}*/
 
-@-moz-keyframes pulse {
-    0 {
-        -moz-transform: scale(1);
-        transform: scale(1);
-    }
+/*@-moz-keyframes pulse {*/
+    /*0 {*/
+        /*-moz-transform: scale(1);*/
+        /*transform: scale(1);*/
+    /*}*/
 
-    50% {
-        -moz-transform: scale(1.2);
-        transform: scale(1.2);
-    }
+    /*50% {*/
+        /*-moz-transform: scale(1.2);*/
+        /*transform: scale(1.2);*/
+    /*}*/
 
-    100% {
-        -moz-transform: scale(1);
-        transform: scale(1);
-    }
-}
+    /*100% {*/
+        /*-moz-transform: scale(1);*/
+        /*transform: scale(1);*/
+    /*}*/
+/*}*/
 
 
 .btn-skin:hover,
