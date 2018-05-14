@@ -324,9 +324,10 @@ hr {
 
 }
 
-/* #intro.profession {
-  color: green;
-} */
+#profession {
+
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
 
 /* .intro .page-scroll {
 	text-align: center;

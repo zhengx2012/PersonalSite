@@ -17,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="849">
-              <caret line="178" column="66" lean-forward="false" selection-start-line="178" selection-start-column="66" selection-end-line="178" selection-end-column="66" />
+            <state relative-caret-position="259">
+              <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -27,8 +27,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1235">
-              <caret line="376" column="5" lean-forward="false" selection-start-line="376" selection-start-column="1" selection-end-line="376" selection-end-column="5" />
+            <state relative-caret-position="268">
+              <caret line="328" column="30" lean-forward="false" selection-start-line="328" selection-start-column="24" selection-end-line="328" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -40,6 +40,8 @@
     <findStrings>
       <find>btn</find>
       <find>portfol</find>
+      <find>headsho</find>
+      <find>pro</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -285,16 +287,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="849">
-          <caret line="178" column="66" lean-forward="false" selection-start-line="178" selection-start-column="66" selection-end-line="178" selection-end-column="66" />
+        <state relative-caret-position="259">
+          <caret line="32" column="29" lean-forward="false" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1235">
-          <caret line="376" column="5" lean-forward="false" selection-start-line="376" selection-start-column="1" selection-end-line="376" selection-end-column="5" />
+        <state relative-caret-position="268">
+          <caret line="328" column="30" lean-forward="false" selection-start-line="328" selection-start-column="24" selection-end-line="328" selection-end-column="30" />
           <folding />
         </state>
       </provider>
